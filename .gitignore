@@ -1,0 +1,23 @@
+# Unity generated folders - anywhere in repository
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# Unity builds
+**/[Bb]uild/
+**/[Bb]uilds/
+
+# Visual Studio / JetBrains
+**/.vs/
+**/.idea/
+**/*.csproj
+**/*.sln
+**/*.suo
+**/*.user
+**/*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
