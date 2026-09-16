@@ -33,7 +33,7 @@ public class PlayerHealth : MonoBehaviour
 
         UpdateUI();
 
-        Debug.Log("Game over");
+       
 
         if(currentHealth == 0)
         {

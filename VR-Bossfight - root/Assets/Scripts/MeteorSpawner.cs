@@ -25,7 +25,7 @@ public class MeteorSpawner : MonoBehaviour
   
     public void StartSpawning()
     {
-        Debug.Log("StartSpawning kördes");
+       
 
 
         if (isSpawning) return;
@@ -66,7 +66,7 @@ public class MeteorSpawner : MonoBehaviour
         {
             StartCoroutine(ShowPopup());
         }*/
-        Debug.Log("Spawnmeteor körs");
+      
 
 
         if (!isSpawning) return;
